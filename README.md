@@ -7,7 +7,3 @@ Nesse projeto, temos como objetivo desenvolver uma ferramenta de análise de des
 
 Pedro De Lucca e Pedro Dutra \ 
 GitHub: DeLucca990 e pabdutra
-
-# Status das entregas
-
-![svg](http://3.142.157.80/webhook2/cdados/test/svg/insper-classroom/22-2a-cd-p1-grupo_pedrolscf)
